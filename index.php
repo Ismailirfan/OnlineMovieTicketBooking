@@ -4,6 +4,7 @@ include "function.php";
 headers();
 ?>
 hello world this is code 
+you can change this code
 <?php
 footers();
 ?>
